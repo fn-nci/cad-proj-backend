@@ -127,6 +127,8 @@ GEM
     net-smtp (0.5.1)
       net-protocol
     nio4r (2.7.4)
+    nokogiri (1.18.8-aarch64-linux-gnu)
+      racc (~> 1.4)
     nokogiri (1.18.8-x86_64-darwin)
       racc (~> 1.4)
     nokogiri (1.18.8-x86_64-linux-gnu)
@@ -200,6 +202,7 @@ GEM
       rspec-support (~> 3.13)
     rspec-support (3.13.2)
     securerandom (0.4.1)
+    sqlite3 (2.6.0-aarch64-linux-gnu)
     sqlite3 (2.6.0-x86_64-darwin)
     sqlite3 (2.6.0-x86_64-linux-gnu)
     stringio (3.1.7)
@@ -216,6 +219,7 @@ GEM
     zeitwerk (2.7.2)
 
 PLATFORMS
+  aarch64-linux
   x86_64-darwin-24
   x86_64-linux
 

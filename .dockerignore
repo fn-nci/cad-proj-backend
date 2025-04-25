@@ -1,0 +1,10 @@
+.git
+.gitignore
+log/*
+!log/.keep
+tmp/*
+!tmp/.keep
+test
+spec
+.env*
+!.env.example
