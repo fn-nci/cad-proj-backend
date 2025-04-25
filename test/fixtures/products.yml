@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: First Product
+  description: Description for first product
+  price: 9.99
+  available: true
+
+two:
+  name: Second Product
+  description: Description for second product
+  price: 19.99
+  available: false
